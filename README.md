@@ -6,7 +6,7 @@
 
 ---
 
-### Note: I didn't make this package! The original can be found [here](https://www.npmjs.com/package/vue-paginate).
+### Note: I didn't make this package! The original can be found [here](https://www.npmjs.com/package/vue-paginate) and the author of the fix [here](https://github.com/patrickkivits/vue-paginate).
 
 ---
 
