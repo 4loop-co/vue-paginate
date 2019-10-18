@@ -1,13 +1,21 @@
-# vue-paginate [![CDNJS version](https://img.shields.io/cdnjs/v/vue-paginate.svg)](https://cdnjs.com/libraries/vue-paginate)
+### This package will fix the issue with the empty input that hasn't been merged into the original package. 
 
-> This version only works with Vue 2.0. For Vue 1.0, check out the [1.0 branch](https://github.com/TahaSh/vue-paginate/tree/1.0).
+---
+
+### [Hire me @ 4loop.co](https://4loop.co)
+
+---
+
+### Note: I didn't make this package! The original can be found [here](https://www.npmjs.com/package/vue-paginate).
+
+---
 
 The idea of `vue-paginate` is pretty simple. You give it an array of items; specify how many items per page; then get your list of items paginated!
 
 ## Setup
 
 ```
-npm install vue-paginate --save
+npm i @4loop.co/vue-paginate --save
 ```
 
 You have two ways to setup `vue-paginate`:
